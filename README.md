@@ -26,7 +26,7 @@ Our BSCGNet can be found in './models/BSCGNet/Mynet.py' (coming soon)
 
 Modify paths of datasets, then run train_net.py.
 
-# Pre-trained model and testing
+# Testing
 modify paths of pre-trained model and datasets, then run test_net.py.
 
 # Evaluation Tool
