@@ -76,9 +76,21 @@ EMFINet: (TGRS 2022) Edge-aware multiscale feature integration network for salie
 
 JRBM: (TGRS 2022) ORSI salient object detection via multiscale joint region and boundary model
 
-# Citation
+## Citation
+If these codes are helpful for you, please cite this paper:
+```python
+@ARTICLE{10315168,
+  author={Feng, Dejun and Chen, Hongyu and Liu, Suning and Liao, Ziyang and Shen, Xingyu and Xie, Yakun and Zhu, Jun},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Boundary-semantic collaborative guidance network with dual-stream feedback mechanism for salient object detection in optical remote sensing imagery}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3332282}}
+```
 
-
+# Contact
 If you encounter any problems with the code.
 
 Please contact me at chy0519@my.swjtu.edu.cn.
