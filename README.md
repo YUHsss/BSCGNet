@@ -16,13 +16,13 @@
    <img src=https://github.com/YUHsss/BSCGNet/blob/main/image/table.jpg>
    </div> 
    
-# Saliency maps(coming soon)
+# Saliency maps
     We provide saliency maps of our BSCGNet on ORSSD, EORSSD and ORSI-4199 in './saliency_maps/Ours.7z'.
     
 # Training
 Backbone: [VGG16](https://pan.baidu.com/s/1OF5tn5qqmgXRFf71HCvXaQ) (code: 7a1s)
 
-Our BSCGNet can be found in './models/BSCGNet/Mynet.py' (coming soon)
+Our BSCGNet can be found in './models/BSCGNet/Mynet.py'
 
 Modify paths of datasets, then run train_net.py.
 
